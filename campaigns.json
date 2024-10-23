@@ -1,0 +1,12 @@
+[
+  { "campaignId": 201, "name": "Spring Savings", "status": "Active" },
+  { "campaignId": 202, "name": "Winter Wonderland Sale", "status": "Inactive" },
+  { "campaignId": 203, "name": "Anniversary Celebration", "status": "Active" },
+  { "campaignId": 204, "name": "New Collection Launch", "status": "Active" },
+  { "campaignId": 205, "name": "Halloween Spooktacular", "status": "Inactive" },
+  { "campaignId": 206, "name": "Flash Sale Weekend", "status": "Active" },
+  { "campaignId": 207, "name": "Festival of Lights Promo", "status": "Active" },
+  { "campaignId": 208, "name": "Birthday Bash Discounts", "status": "Inactive" },
+  { "campaignId": 209, "name": "Monsoon Mega Offers", "status": "Active" },
+  { "campaignId": 210, "name": "Exclusive VIP Deals", "status": "Inactive" }
+]

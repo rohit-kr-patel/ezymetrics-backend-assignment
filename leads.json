@@ -1,0 +1,12 @@
+[
+  { "leadId": 1, "name": "Alice Cooper", "email": "alice@domain.com", "source": "YouTube Ads" },
+  { "leadId": 2, "name": "Ethan Clark", "email": "ethan@mail.com", "source": "Twitter" },
+  { "leadId": 3, "name": "Mia Turner", "email": "mia.turner@gmail.com", "source": "Reddit" },
+  { "leadId": 4, "name": "Daniel Scott", "email": "daniel.s@outlook.com", "source": "SEO Campaign" },
+  { "leadId": 5, "name": "Olivia Parker", "email": "olivia.p@yahoo.com", "source": "Google Ads" },
+  { "leadId": 6, "name": "Liam Harris", "email": "liam.h@gmail.com", "source": "LinkedIn" },
+  { "leadId": 7, "name": "Ava Johnson", "email": "ava.j@company.com", "source": "Email Campaign" },
+  { "leadId": 8, "name": "Noah Wright", "email": "noah.w@hotmail.com", "source": "Facebook" },
+  { "leadId": 9, "name": "Ella Martinez", "email": "ella.m@gmail.com", "source": "Instagram" },
+  { "leadId": 10, "name": "Lucas Brown", "email": "lucas.b@protonmail.com", "source": "Referral Program" }
+]
